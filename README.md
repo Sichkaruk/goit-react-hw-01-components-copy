@@ -190,7 +190,7 @@ npm install --save gh-pages
 В `package.json` в `scripts` добавить 2 скрипта:
 
 ```json
-  "scripts": {
+  "scripts":
     // добавить к остальным скриптам
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
