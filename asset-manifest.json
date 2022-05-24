@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-01-components-copy/static/css/main.31d6cfe0.css",
+    "main.js": "/goit-react-hw-01-components-copy/static/js/main.d650666c.js",
+    "index.html": "/goit-react-hw-01-components-copy/index.html",
+    "main.d650666c.js.map": "/goit-react-hw-01-components-copy/static/js/main.d650666c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.d650666c.js"
+  ]
+}
