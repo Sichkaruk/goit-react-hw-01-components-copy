@@ -6,6 +6,7 @@
   --green-color: #d80b2d;
   --red-color: #07f31a;
   --table-title-color: #59bac9;
+  --black-color: #080000;
 }
 
 body {
@@ -17,7 +18,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-size: 16px;
+  font-size: 15px;
 
   color: rgb(95, 93, 93);
   background-color: rgb(211, 207, 207);
