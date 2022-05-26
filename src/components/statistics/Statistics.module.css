@@ -6,6 +6,12 @@
   margin-bottom: 15px;
 }
 
+/* @media screen and (min-width: 768px) {
+  .section{
+    width: 700px;
+  }
+} */
+
 .title {
   width: 100%;
   padding: 20px 0;
